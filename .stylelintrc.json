@@ -1,0 +1,8 @@
+{
+  "rules": {},
+  "defaultSeverity": "warning", 
+    "extends": ["stylelint-config-standard"],
+    "plugins": [],
+      "processors": { },
+  "ignoreFiles": []
+}
